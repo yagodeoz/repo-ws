@@ -7,5 +7,9 @@ public class SendEmail {
 		System.out.println("Enviar email");
 	}
 	
+	public void senEmail(String from){
+		System.out.println("Enviar email from");
+	}
+	
 
 }
